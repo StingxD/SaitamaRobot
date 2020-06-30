@@ -19,6 +19,9 @@ from SaitamaRobot.modules.helper_funcs.misc import paginate_modules
 PM_START_TEXT = """
 Hi {}, my name is {}! 
 I am Sushant Singh Rajput a group management bot.
+Made With LoVE By ["CLICK HERE"] (t.me/Stingxd)
+Special Thanks To This ["Pro"] (t.me/Rohan_xD)
+
 To add me to your group click ["HERE"](t.me/SushantSingh_Probot?startgroup=botstart)
 You can find my list of available commands with /help.
 
